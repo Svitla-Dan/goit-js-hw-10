@@ -4,9 +4,9 @@
   | default @import url()
   |============================
 */
-@import url('./reset.css');
-@import url('./vite-promo.css');
-@import url('./header.css');
+
+@import url('https://cdn.jsdelivr.net/npm/modern-normalize/modern-normalize.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400..500&display=swap');
 
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
